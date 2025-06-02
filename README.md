@@ -14,7 +14,7 @@ Crafting web & mobile experiences with clean code, creativity, and a love for te
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=septiandr&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=septiandr&theme=radical)
 
 ---
 
