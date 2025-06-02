@@ -18,7 +18,9 @@ Crafting web & mobile experiences with clean code, creativity, and a love for te
 
 ---
 
-## 📫 Reach Me
-[LinkedIn](https://www.linkedin.com/in/septiandr/) · [Email](mailto:sdwirisanggalih@gmail.com)
+### 📫 Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/septiandr/)
+- 📧 [Email](mailto:sdwirisanggalih@gmail.com)
 
 > “Think it. Build it. Ship it.” 🚀
