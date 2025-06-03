@@ -7,8 +7,11 @@ Crafting web & mobile experiences with clean code, creativity, and a love for te
 ---
 
 ## 🧰 Tech Stack
+
 **Frontend:** React · Next.js · React Native · Flutter · Tailwind · ShadCN · MUI  
+
 **Backend:** Node.js · Express · Bun.js · PHP · Laravel · Go  · Python  
+
 **Others:** Three.js · Blender 3D · Python · TypeScript
 
 ---
