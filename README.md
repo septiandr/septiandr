@@ -12,7 +12,7 @@ Crafting web & mobile experiences with clean code, creativity, and a love for te
 
 **Backend:** Node.js · Express · Bun.js · PHP · Laravel · Go  · Python  
 
-**Others:** Three.js · Blender 3D · Python · TypeScript
+**Others:** Three.js · Blender 3D · Python · TypeScript · GSAP 
 
 ---
 
