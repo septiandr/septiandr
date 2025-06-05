@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Galih
+<p align="tengah"> 
+  <img src="https://capsule-render.vercel.app/api?text=Hi Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>
+
 
 💻 Fullstack Developer | 🤖 AI & 3D Explorer | 📱 Mobile Dev
 
