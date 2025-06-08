@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me (Galih)
 
 💻 Fullstack Developer | 🤖 AI & 3D Explorer | 📱 Mobile Dev
 
