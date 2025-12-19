@@ -18,7 +18,7 @@ Crafting seamless web & mobile experiences with clean code, creativity, and a de
 React · Next.js · React Native · Flutter · Tailwind CSS · ShadCN UI · Material UI (MUI)
 
 **Backend**:  
-Node.js · Express · Bun.js · PHP · Laravel · Python
+Node.js · Express · Bun.js · PHP · Laravel · Golang
 
 **Others**:  
 Three.js · Blender 3D · TypeScript · GSAP
