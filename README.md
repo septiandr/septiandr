@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-💻 Fullstack Developer | 🤖 AI & 3D Explorer | 📱 Mobile Dev
+💻 Fullstack Developer | 📱 Mobile Dev
 
 Crafting seamless web & mobile experiences with clean code, creativity, and a deep love for technology.
 
