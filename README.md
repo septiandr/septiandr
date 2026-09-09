@@ -30,7 +30,6 @@ Three.js · Blender 3D · TypeScript · GSAP
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=septiandr&theme=radical" alt="GitHub Streak" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septiandr&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 
